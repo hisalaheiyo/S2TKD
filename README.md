@@ -1,4 +1,4 @@
-# S2TKD
+# S2TKD: Dual-Student Knowledge Distillation for Visual Anomaly Detection and Localization
 experiment set for S2TKD in four datasets.
 
 MVTec AD:
